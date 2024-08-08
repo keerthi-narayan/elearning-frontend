@@ -4,7 +4,7 @@ import { useNavigate, useParams } from 'react-router-dom';
 import { CourseData } from '../../context/CourseContext';
 import { server } from '../../main';
 import axios from 'axios';
-import TryCatch from '../../../../server/middlewares/TryCatch';
+
 import toast from 'react-hot-toast';
 import { UserData } from '../../context/UserContext';
 import Loading from '../../components/loading/Loading';
