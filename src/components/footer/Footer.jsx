@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer-content">
             <p>
                 &copy; 2024 Your E-Learning Platform. All rights reserved. <br />
-                Made with ❤️ <a href=''>Keerthi N</a>
+                 <a href=''></a>
             </p>
 
             <div className="social-links">
